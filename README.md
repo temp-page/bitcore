@@ -202,6 +202,7 @@ Copyright 2013-2019 BitPay, Inc. Bitcore is a trademark maintained by BitPay, In
 
 ```
 https://stackoverflow.com/questions/18136746/npm-install-failed-with-cannot-run-in-wd
-
+npm install eslint@^4.9.0
 npm install --unsafe-perm
+npm run node
 ```
