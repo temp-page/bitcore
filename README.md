@@ -198,3 +198,10 @@ See [CONTRIBUTING.md](https://github.com/bitpay/bitcore/blob/master/Contributing
 Code released under [the MIT license](https://github.com/bitpay/bitcore/blob/master/LICENSE).
 
 Copyright 2013-2019 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
+
+
+```
+https://stackoverflow.com/questions/18136746/npm-install-failed-with-cannot-run-in-wd
+
+npm install --unsafe-perm
+```
